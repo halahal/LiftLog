@@ -2,6 +2,12 @@
 
 一款中文原生 Android 离线力量训练日志。使用 Kotlin、Jetpack Compose + Material 3、Room（SQLite）。没有账号、服务器或网络权限。
 
+## 功能展示
+
+![训练记录与训练日历](docs/images/liftlog-training.png)
+
+![后台休息提醒](docs/images/liftlog-rest-alert.png)
+
 ## 直接安装
 
 - 手机需为 Android 8.0（API 26）或更新版本。将提供的测试版 APK 下载到手机，打开安装；如果系统询问，仅允许当前安装来源安装该 APK。
