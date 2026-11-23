@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">练迹</string>
+    <string name="rest_overlay_summary">练迹 · %1$s</string>
+    <string name="rest_overlay_next_set">可以开始下一组</string>
+    <color name="launcher_background">#153528</color>
+    <style name="Theme.LiftLog" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F6F8F3</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
